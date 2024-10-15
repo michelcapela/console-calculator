@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build Folders (the binaries)
 bin/
 obj/
@@ -30,3 +31,6 @@ obj/
 # NuGet Packages
 *.nupkg
 packages/
+=======
+/.vs
+>>>>>>> da5f90257814802115a149547b14cfc3ed070c02
