@@ -1,0 +1,32 @@
+# Build Folders (the binaries)
+bin/
+obj/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio temporary files
+*.vs/
+.vscode/
+.vsconfig
+
+# Rider project files
+.idea/
+
+# Logs
+*.log
+
+# Other files you might want to ignore
+*.db
+*.sqlite
+*.pdb
+*.mdb
+*.jfm
+*.jfm.xml
+
+# NuGet Packages
+*.nupkg
+packages/
